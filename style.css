@@ -1,0 +1,13 @@
+body{
+    color: rgb(251, 255, 0);
+    background: rgb(255, 0, 234);
+}
+.name_of_objects{
+    font-family: unset;
+    font-size: large;
+}
+#camera{
+    border: 4px White dashed;
+    width: 300px;
+    height: 300px;
+}
